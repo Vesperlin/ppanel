@@ -91,16 +91,16 @@
   "devDependencies": {
     "@turbo/gen": "^2.5.6",
     "@types/node": "^24.3.0",
-    "@types/react": "^19.1.12",
-    "@types/react-dom": "^19.1.9",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
     "@types/react-syntax-highlighter": "^15.5.13",
     "@types/rtl-detect": "^1.0.3",
     "@workspace/eslint-config": "workspace:*",
     "@workspace/typescript-config": "workspace:*",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
     "tailwindcss": "^3.4.17",
     "typescript": "^5.9.2"
   }

@@ -1,6 +1,6 @@
 {
   "name": "ppanel-web",
-  "version": "1.6.1",
+  "version": "1.6.3",
   "private": true,
   "homepage": "https://github.com/perfect-panel/ppanel-web",
   "bugs": {
@@ -136,8 +136,8 @@
     "lint-staged": "^16.1.5",
     "postcss": "^8.5.6",
     "prettier": "^3.4.2",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
     "semantic-release": "21.1.2",
     "semantic-release-config-gitmoji": "^1.5.3",
     "tailwindcss": "^3.4.17",
